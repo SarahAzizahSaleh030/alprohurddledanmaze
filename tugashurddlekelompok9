@@ -62,3 +62,4 @@ def turn_right():
     
 def pass_wall():
       turn_left()
+
